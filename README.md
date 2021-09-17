@@ -1,0 +1,2 @@
+# Evaluador_de_Examen_Java
+El siguiente proyecto es un generador y evaluador de exámenes usando Sockets, en el que el usuario tiene una cuenta en la que puede aplicar examenes de opcion multiple de un banco de problemas (Base de datos) en un limite de tiempo. El usuario puede salir del examen y retomarlo donde se quedo, además los exámenes se guardaran en un historial que podra consultar el usuario. Finalmente existe un usuario Administrador que tiene la capacidad de añadir mas preguntas al banco. 
